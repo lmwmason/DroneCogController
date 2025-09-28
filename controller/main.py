@@ -1,3 +1,3 @@
-from displayManager import MakeAllGui, cur_cog_pos
+from displayManager import MakeAllGui
 
 MakeAllGui().run()
