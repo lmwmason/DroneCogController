@@ -85,8 +85,3 @@ Install the following Arduino libraries:
 - Use proper vibration damping for load cells.  
 - Stepper motor should only move the counterweight, not interfere with propeller thrust.  
 - Never run the adjustment mechanism while in-flight — **use this system for pre-flight balancing only**.  
-
----
-
-## License  
-This project is released under the MIT License.  
